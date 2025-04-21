@@ -41,6 +41,7 @@ if (isset($_POST['submit'])) {
 
     <!-- custom css file link  -->
     <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="images/favicon.png" type="image/png">
 
 </head>
 
@@ -74,7 +75,7 @@ if (isset($_POST['submit'])) {
                 <option value="admin">admin</option>
             </select>
             <input type="submit" name="submit" value="register now" class="btn">
-            <p>already have an account? <a href="login.php">login now</a></p>
+            <p>Already have an account? <a href="login.php">login now</a></p>
         </form>
 
     </div>
