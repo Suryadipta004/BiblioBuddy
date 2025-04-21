@@ -1,16 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600&display=swap');
 
 :root {
-   --purple: #c3aed6;       /* Pastel purple */
-   --red: #f4acb7;          /* Soft rose pink */
-   --orange: #ffd6a5;       /* Light peachy orange */
-   --black: #4b4b4b;        /* Gentle charcoal */
-   --white: #ffffff;        /* Clean white */
-   --light-color: #a9a9a9;  /* Soft gray */
-   --light-white: #f1f1f1;  /* Very light gray */
-   --light-bg: #fef6e4;     /* Creamy pastel background */
+   --purple: #c3aed6;       
+   --red: #f4acb7;         
+   --orange: #ffd6a5;  
+   --black: #4b4b4b;    
+   --white: #ffffff;     
+   --light-color: #a9a9a9; 
+   --light-white: #f1f1f1;
+   --light-bg: #fef6e4;  
    --border: .1rem solid var(--black);
-   --box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.05); /* Soft shadow */
+   --box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.05); 
 }
 
 
