@@ -1,5 +1,4 @@
 <?php
-
 include 'config.php';
 session_start();
 
@@ -27,7 +26,6 @@ if (isset($_POST['submit'])) {
         $message[] = 'incorrect password or password!';
     }
 }
-
 ?>
 
 <!DOCTYPE html>
@@ -50,11 +48,11 @@ if (isset($_POST['submit'])) {
     if (isset($message)) {
         foreach ($message as $message) {
             echo '
-      <div class="message">
-         <span>' . $message . '</span>
-         <i class="fas fa-times" onclick="this.parentElement.remove();"></i>
-      </div>
-      ';
+    <div class="message">
+        <span>' . $message . '</span>
+        <i class="fas fa-times" onclick="this.parentElement.remove();"></i>
+    </div>
+    ';
         }
     }
     ?>
