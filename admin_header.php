@@ -24,7 +24,7 @@ if (isset($message)) {
 
         <div class="icons">
             <div id="menu-btn" class="fas fa-bars"></div>
-            <div id="user-btn" class="fas fa-users"></div>
+            <div id="user-btn" class="fas fa-user"></div>
         </div>
 
         <div class="account-box">
