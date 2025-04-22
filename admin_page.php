@@ -14,6 +14,43 @@
 <body>
     <?php include 'admin_header.php' ?>
 
+    <section class="dashboard">
+        <div class="box-container">
+            <div class="box">
+                <h3></h3>
+                <p>total pendings</p>
+            </div>
+            <div class="box">
+                <h3></h3>
+                <p>completed payments</p>
+            </div>
+            <div class="box">
+                <h3></h3>
+                <p>order placed</p>
+            </div>
+            <div class="box">
+                <h3></h3>
+                <p>products added</p>
+            </div>
+            <div class="box">
+                <h3></h3>
+                <p>normal users</p>
+            </div>
+            <div class="box">
+                <h3></h3>
+                <p>admin users</p>
+            </div>
+            <div class="box">
+                <h3></h3>
+                <p>total accounts</p>
+            </div>
+            <div class="box">
+                <h3></h3>
+                <p>new messages</p>
+            </div>
+        </div>
+    </section>
+
 </body>
 
 </html>
