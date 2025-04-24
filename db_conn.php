@@ -4,7 +4,7 @@ $sName = "localhost";
 $uName = "root";
 $pass = "";
 
-$db_name = "db_SQL";
+$db_name = "online_book_store_db";
 
 try {
     $conn = new PDO(
