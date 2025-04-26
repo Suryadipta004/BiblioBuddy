@@ -70,22 +70,38 @@ Whether you're looking for a specific title, exploring a favorite genre, or simp
 
 ---
 
+Got it — you want me to **correct and update** the **Project Structure Overview** according to the new structure you mentioned (`Upload`, `Upload/cover`, `Upload/files`, `css`, `css/style.css`, `img`, `php`, and rest of the code files).
+
+Here’s the **corrected version**:
+
+---
+
 ## 📂 Project Structure Overview
 
 ```
 bibliobuddy/
-├── assets/
-│   ├── css/          # Stylesheets for layout and design
-│   ├── js/           # JavaScript files for client-side interactivity
-│   └── images/       # Image assets like book covers
-├── index.php         # Main entry point of the application
-├── README.md         # Project documentation
+├── Upload/
+│   ├── cover/         # Folder to store uploaded book cover images
+│   └── files/         # Folder to store uploaded book-related files (e.g., PDFs, documents)
+│
+├── css/
+│   └── style.css      # Main stylesheet for the website
+│
+├── img/               # Static image assets (e.g., icons, default images)
+│
+├── php/               # PHP files containing all server-side functions
+│   ├── db.php         # (Example) Database connection or XML handling functions
+│   ├── search.php     # (Example) Search handling logic
+│   └── filter.php     # (Example) Category filter logic
+│
+├── books.xml          # XML file containing structured book data
+│
+├── index.php          # Main entry point for the web application
+│
+├── README.md          # Project documentation
+│
+└── (Other supporting PHP/HTML files if any)
 ```
-
-- `assets/css/` - Custom CSS styles to enhance UI/UX
-- `assets/js/` - JavaScript logic for searching and filtering books
-- `books.xml` - Centralized XML file for all book records
-- `index.php` - Core PHP page handling the dynamic rendering of books
 
 ---
 
