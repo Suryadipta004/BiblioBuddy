@@ -87,9 +87,6 @@ BiblioBuddy/
 │   └── style.css      # Main stylesheet for the website
 ├── img/               # Static image assets (e.g., icons, default images)
 ├── php/               # PHP files containing all server-side functions
-│   ├── db.php         # (Example) Database connection or XML handling functions
-│   ├── search.php     # (Example) Search handling logic
-│   └── filter.php     # (Example) Category filter logic
 ├── books.xml          # XML file containing structured book data
 ├── index.php          # Main entry point for the web application
 ├── README.md          # Project documentation
