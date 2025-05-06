@@ -1,0 +1,28 @@
+.pdf-list {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.card {
+    width: 18rem;
+}
+
+@media (max-width: 768px) {
+    .card {
+        width: 100%;
+    }
+}
+
+.category .list-group {
+    width: 200px;
+    max-width: 100%;
+}
+
+.nd {
+    text-decoration: none;
+}
+
+.nd:hover {
+    text-decoration: underline; /* Optional hover effect */
+}
