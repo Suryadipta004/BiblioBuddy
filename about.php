@@ -269,7 +269,7 @@ session_start();
 
                             <div class="card-body text-center">
                                 <!-- Name and Title -->
-                                <h5 class="fw-bold text-dark mb-1">Alex Johnson</h5>
+                                <h5 class="fw-bold text-dark mb-1">Suryadipta Das</h5>
                                 <p class="text-muted mb-2">Founder & CEO</p>
 
                                 <!-- Star Ratings -->
@@ -302,7 +302,7 @@ session_start();
 
                             <div class="card-body text-center">
                                 <!-- Name and Title -->
-                                <h5 class="fw-bold text-dark mb-1">Alex Johnson</h5>
+                                <h5 class="fw-bold text-dark mb-1">Anurag Barma</h5>
                                 <p class="text-muted mb-2">Founder & CEO</p>
 
                                 <!-- Star Ratings -->
@@ -333,7 +333,7 @@ session_start();
 
                             <div class="card-body text-center">
                                 <!-- Name and Title -->
-                                <h5 class="fw-bold text-dark mb-1">Alex Johnson</h5>
+                                <h5 class="fw-bold text-dark mb-1">Manab Bairagi</h5>
                                 <p class="text-muted mb-2">Founder & CEO</p>
 
                                 <!-- Star Ratings -->
@@ -364,7 +364,7 @@ session_start();
 
                             <div class="card-body text-center">
                                 <!-- Name and Title -->
-                                <h5 class="fw-bold text-dark mb-1">Alex Johnson</h5>
+                                <h5 class="fw-bold text-dark mb-1">Deepark Bhagat</h5>
                                 <p class="text-muted mb-2">Founder & CEO</p>
 
                                 <!-- Star Ratings -->
